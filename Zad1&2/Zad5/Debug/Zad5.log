@@ -1,0 +1,29 @@
+﻿  Main.cpp
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(139,13): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(147,19): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(147,37): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(147,53): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(148,25): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(148,37): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(148,55): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(149,19): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(149,37): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(149,55): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(150,19): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(150,43): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(150,55): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(151,19): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(151,35): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(151,53): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(152,19): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(152,37): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(152,61): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(160,9): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(161,9): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(162,9): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(185,21): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(265,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(266,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(267,15): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\Robert\source\repos\Zad5\Zad5\Main.cpp(338,36): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Zad5.vcxproj -> C:\Users\Robert\source\repos\Zad5\Debug\Zad5.exe
