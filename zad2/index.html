@@ -167,9 +167,7 @@
 
     function DoClear()
     {
-      let active = document.querySelector('#clearButton');
-      console.log(active);
-      active.addEventListener('click',() => {graphics.clearRect(0, 0, canvas.width, canvas.height);});
+      graphics.clearRect(0,0,800,600);
     }
 
     /**
